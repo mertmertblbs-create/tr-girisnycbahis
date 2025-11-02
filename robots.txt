@@ -1,0 +1,14 @@
+# robots.txt for tr.girisnycbahis.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://tr.girisnycbahis.com/sitemap.xml
+
+# Block sensitive paths
+Disallow: /admin/
+Disallow: /private/
+
+# Crawl-delay
+Crawl-delay: 1
